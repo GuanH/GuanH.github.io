@@ -1,0 +1,36 @@
+var class_player_manager =
+[
+    [ "StateCode", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086c", [
+      [ "Idle", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086cae599161956d626eda4cb0a5ffb85271c", null ],
+      [ "Walk", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca7a16a854f32231a8df9326136b09ee62", null ],
+      [ "Run", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086cac5301693c4e792bcd5a479ef38fb8f8d", null ],
+      [ "Brake", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca9af901a16c3d66abda1f656f0b7c4e15", null ],
+      [ "Crawl", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca559d97c42db38af1e4845cb228dfa685", null ],
+      [ "Attack", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086cadcfafcb4323b102c7e204555d313ba0a", null ],
+      [ "Float", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca22ae0e2b89e5e3d477f988cc36d3272b", null ],
+      [ "Jump", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca101f693f72287a2819a364f64ca1c0ed", null ],
+      [ "Fall", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca58fa788345ab5ac21c2cef38907d4580", null ],
+      [ "Climb", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca6a1c691bbf96b5c71a26173491b350cd", null ],
+      [ "Stumble", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca04e5fe52c7f8bac275fb5e6b7e0ae551", null ],
+      [ "Action_pick", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca01592d7b1c6a1ab5fa725a2dfb8f34c3", null ],
+      [ "Action_move_object", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca8e2e338bca6c12737c1835ef05165a75", null ],
+      [ "Action_port_idle", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca553fb5068e5427f204ebb13180d2360f", null ],
+      [ "Action_port_walk", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086caa4927e623dc5d51969004b2837dc1163", null ],
+      [ "Swim", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086cad0d933facd58904b226d055e75da2a6d", null ],
+      [ "Swing", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca198b44a40aa77f2256886010c7526c0b", null ],
+      [ "Die", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca952f8d52fbca6da722e72d520acd6edd", null ],
+      [ "Reborn", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca429d7d597163397cc89ce8bc49cd6973", null ],
+      [ "None", "class_player_manager.html#a26f9914f85f9ff08cc41e71849b4086ca6adf97f83acf6453d4a6a4b1070f3754", null ]
+    ] ],
+    [ "ableToSprint", "class_player_manager.html#a9d29a6217619800500d43aa35ab12927", null ],
+    [ "CanWalkOnStairs", "class_player_manager.html#a647e4ef6856068c6de344667f0b8d8bc", null ],
+    [ "HandRange", "class_player_manager.html#a2384a5304c5bbf7bef57253d5174738f", null ],
+    [ "input", "class_player_manager.html#a9120f783cdf3235e3119adc4396ea00b", null ],
+    [ "isFreeToDoAction", "class_player_manager.html#a200f7566d81e119987c9ee367216c44d", null ],
+    [ "isInWater", "class_player_manager.html#aaa3f84e30cb0d4ff15e70ae9ef3883e8", null ],
+    [ "layer", "class_player_manager.html#a532a79463044d17144317eabefe6a9a3", null ],
+    [ "LeftHand", "class_player_manager.html#a0e96619f5c4e91351ec0040682d6cc17", null ],
+    [ "player", "class_player_manager.html#a45a6aa1ce77f2b57bd3192989c168066", null ],
+    [ "RightHand", "class_player_manager.html#ac63b4e6921b7b7d4eacc19883381452a", null ],
+    [ "Stamina", "class_player_manager.html#aac041a4ff0a718dfd0c58377b1fcebdf", null ]
+];
